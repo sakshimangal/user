@@ -1,0 +1,13 @@
+.detail-wrapper {
+    margin: 20px;
+    .detail {
+        display: flex;
+        font-size: 16px;
+        .heading {
+            font-weight: bold;
+            margin-right: 30px;
+            width: 150px;
+            text-align: left;
+        }
+    }
+}
